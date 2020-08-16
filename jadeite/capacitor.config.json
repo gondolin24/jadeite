@@ -1,0 +1,13 @@
+{
+  "appId": "com.guzman.jadeite",
+  "appName": "jadeite",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
